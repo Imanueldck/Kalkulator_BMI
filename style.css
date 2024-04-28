@@ -1,0 +1,28 @@
+body {
+  background: rgb(85, 136, 134);
+  background: linear-gradient(90deg, rgba(85, 136, 134, 1) 0%, rgba(0, 109, 150, 1) 33%, rgba(25, 103, 133, 1) 56%, rgba(137, 217, 189, 1) 100%);
+}
+h1 {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+/* Menerapkan margin atas pada tombol hitung */
+#calculateBtn {
+  margin-top: 20px;
+}
+
+/* Menerapkan margin atas pada hasil */
+#result {
+  margin-top: 20px;
+}
+
+/* Mengatur lebar form input agar rapi */
+.form-control {
+  width: 100%;
+}
+
+/* Mengatur tata letak hasil agar rapi di tengah */
+.alert {
+  text-align: center;
+}
