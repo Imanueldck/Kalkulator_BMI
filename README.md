@@ -1,2 +1,2 @@
-# Kalkulator_BMI
+Create a simple website kaltulator BMI
  
