@@ -7,22 +7,27 @@ h1 {
   margin-bottom: 30px;
 }
 
-/* Menerapkan margin atas pada tombol hitung */
 #calculateBtn {
   margin-top: 20px;
 }
 
-/* Menerapkan margin atas pada hasil */
 #result {
   margin-top: 20px;
 }
 
-/* Mengatur lebar form input agar rapi */
 .form-control {
   width: 100%;
 }
 
-/* Mengatur tata letak hasil agar rapi di tengah */
 .alert {
   text-align: center;
+}
+
+#calculateBtn {
+  margin-top: 20px;
+  transition: transform 0.2s ease-in-out;
+}
+
+#calculateBtn:hover {
+  transform: scale(1.1);
 }
